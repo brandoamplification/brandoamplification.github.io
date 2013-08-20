@@ -6,3 +6,5 @@ author :
   name : James Andersen
   github : jamesandersen
   twitter : jandersen78
+  
+exclude: [_assets, node_modules, bower_components, Gruntfile.js, package.json, bower.json]
