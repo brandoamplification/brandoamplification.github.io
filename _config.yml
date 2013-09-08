@@ -1,10 +1,9 @@
 pygments: true
 
-title : Jander.me
-url : http://jander.me
+title : brandoamplification.com
+url : http://brandoamplification.com
 author :
-  name : James Andersen
-  github : jamesandersen
-  twitter : jandersen78
+  name : Brando Andersen
+  github : brandoamplication
   
 exclude: ["bower_components", "bower.json", "Gruntfile.js", "node_modules"]
