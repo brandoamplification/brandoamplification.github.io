@@ -15,6 +15,7 @@
   "devDependencies": {
     "grunt-contrib-watch": "~0.5.2",
     "grunt-jekyll": "~0.3.9",
-    "grunt-concurrent": "~0.3.0"
+    "grunt-concurrent": "~0.3.0",
+    "grunt": "~0.4.1"
   }
 }
