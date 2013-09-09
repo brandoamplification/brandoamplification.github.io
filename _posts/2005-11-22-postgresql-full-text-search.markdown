@@ -1,14 +1,14 @@
 ---
-author: jandersen
+author: Brando
 comments: true
-date: 2005-11-22 22:11:19+00:00
+date: 2013-9-8 21:25:19+00:00
 layout: post
 slug: postgresql-full-text-search
-title: PostgreSQL Full Text Search
+title: Website Coming Soon!
 wordpress_id: 8
 ---
 
-[Implementing Full Text Indexing with PostgreSQL](http://www.devx.com/opensource/Article/21674/0/page/1)
+
 
 
 
