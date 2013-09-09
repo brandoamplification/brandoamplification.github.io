@@ -3,7 +3,7 @@ author: Brando
 comments: true
 date: 2013-9-8 21:25:19+00:00
 layout: post
-slug: postgresql-full-text-search
+slug: Website Coming Soon!
 title: Website Coming Soon!
 wordpress_id: 8
 ---
