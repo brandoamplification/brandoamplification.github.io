@@ -1,7 +1,8 @@
 --- 
-layout: default
-title: About | James Andersen 
+layout: about
+title: About | Brando Amplification
 ---
+
 About | Brando Amplification
 =========
 
