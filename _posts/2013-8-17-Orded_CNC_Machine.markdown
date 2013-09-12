@@ -2,7 +2,7 @@
 author: brando
 comments: true
 layout: post
-title: Website Coming Soon
+title: Ordered CNC Machine
 categories:
 - northdakota
 - b2-bomber

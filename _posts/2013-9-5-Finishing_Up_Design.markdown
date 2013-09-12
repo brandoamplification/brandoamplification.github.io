@@ -2,7 +2,7 @@
 author: brando
 comments: true
 layout: post
-title: Website Coming Soon
+title: Finishing Up Design
 categories:
 - northdakota
 - b2-bomber
